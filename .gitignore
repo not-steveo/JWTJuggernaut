@@ -1,3 +1,6 @@
+# potentially sensitive data I don't want to expose
+examples/private_sample_tokens.txt
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
